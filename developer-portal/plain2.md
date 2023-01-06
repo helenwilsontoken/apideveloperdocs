@@ -16,7 +16,7 @@ The file name maps to the URL path.
 
 
 
-:::info Optional title
+:::info
 
 This is an info point.
 

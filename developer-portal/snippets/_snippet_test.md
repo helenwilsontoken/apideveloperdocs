@@ -1,4 +1,4 @@
-Snippet heading H1
+# Snippet heading H1
 
 Snippet test.
 
