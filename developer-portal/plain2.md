@@ -19,7 +19,7 @@ Warning Warning Warning!
 Notice the URL in the address bar is localhost:3000/developer-portal/plain.
 The file name maps to the URL path.
 <embed src="./snippets/_snippet_test.md" />
-
+<embed src="./snippets/_snippet_test2.md" />
 
 
 :::info

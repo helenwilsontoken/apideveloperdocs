@@ -16,6 +16,10 @@ The file name maps to the URL path.
 markdown
 [Page added!](plain2.md)
 
+markdown
+[Page added!](plain3.md)
+
+
 <embed src="./snippets/_snippet_test.md" />
 
 ![markdown file changed](./images/markdown-file-changed.png)
