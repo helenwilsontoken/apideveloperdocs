@@ -1,11 +1,11 @@
-H1
+Snippet heading H1
 
 Snippet test.
 
-## H2
+## Snippet heading H2
 
 Snippet test.
 
-### H3
+### Snippet heading H3
 
 Snippet test.
